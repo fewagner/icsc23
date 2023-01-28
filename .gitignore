@@ -1,3 +1,8 @@
+# own files
+*_plots/
+data/
+*_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
